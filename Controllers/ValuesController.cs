@@ -14,7 +14,11 @@ namespace kvWebApi02.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+<<<<<<< HEAD
             return new string[] { "value1", "value2", "value3", "value3" };
+=======
+            return new string[] { "value1", "value2", "value3", "value4" };
+>>>>>>> develop
         }
 
         // GET api/values/5
