@@ -1,0 +1,14 @@
+C:\azure_learning\azure_code\kvWebApi02\bin\Debug\netcoreapp2.2\kvWebApi02.deps.json
+C:\azure_learning\azure_code\kvWebApi02\bin\Debug\netcoreapp2.2\kvWebApi02.runtimeconfig.json
+C:\azure_learning\azure_code\kvWebApi02\bin\Debug\netcoreapp2.2\kvWebApi02.runtimeconfig.dev.json
+C:\azure_learning\azure_code\kvWebApi02\bin\Debug\netcoreapp2.2\kvWebApi02.dll
+C:\azure_learning\azure_code\kvWebApi02\bin\Debug\netcoreapp2.2\kvWebApi02.pdb
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.csprojAssemblyReference.cache
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.csproj.CoreCompileInputs.cache
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.RazorAssemblyInfo.cache
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.RazorAssemblyInfo.cs
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.AssemblyInfoInputs.cache
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.AssemblyInfo.cs
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.RazorTargetAssemblyInfo.cache
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.dll
+C:\azure_learning\azure_code\kvWebApi02\obj\Debug\netcoreapp2.2\kvWebApi02.pdb
