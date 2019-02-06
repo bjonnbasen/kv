@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a099f358-c62f-4218-aaa4-2484783a66d2/resourceGroups/kvResourceGroup/providers/Microsoft.Web/sites/alikvwebapp",
+    "appService.deploySubpath": ""
+}
